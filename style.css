@@ -18,3 +18,8 @@ ol {
     width: 100px;
     margin: 0px auto;  
 }
+
+.line{
+    margin-left: 100px;
+    margin-right: 100px;
+}
