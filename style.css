@@ -1,0 +1,20 @@
+html {
+    text-align: center;
+    background-color: bisque;
+    color: #8B4513;
+}
+
+ul {
+    width: 500px;
+    margin: 0px auto;
+}
+
+ol {
+    width: 250px;
+    margin: 0px auto;
+}
+
+.OL {
+    width: 100px;
+    margin: 0px auto;  
+}
